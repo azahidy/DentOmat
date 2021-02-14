@@ -1,2 +1,2 @@
 # DentOmat
-Hasta takibi
+Hasta takibi Programı
